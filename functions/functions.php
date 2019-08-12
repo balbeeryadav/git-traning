@@ -6,4 +6,7 @@ function getName() {
 function getLastName() {
 	return "Yadav";
 }
+function getAddress() {
+	return "Mumbai";
+}
 ?>
